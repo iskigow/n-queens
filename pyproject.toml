@@ -1,0 +1,7 @@
+[project]
+name = "n-queens"
+version = "0.1.0"
+description = "N-Queens logical game"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
